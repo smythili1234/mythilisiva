@@ -1,0 +1,6 @@
+#include<stdio.h>
+#include<conio.h.
+int main()
+{
+int low,hiogh,i,temp1.temp2,remainder,n=0;
+printf("enter 
